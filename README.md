@@ -3,7 +3,7 @@
 💼 Technical Project Manager<br/>
 🎒 New York University Graduate<br/>
 🥇 Ex-Alibaba, Solo-Founder of Untether<br/>
-🆕 Learning the ropes of software development one step at a time! 
+🆕 Learning the ropes of software development one step at a time!<br/>
 🎨[LinkedIn](https://www.linkedin.com/in/jeffery-xing-1750b5188/)<br/> 
 💎[Website](https://jefferyxing.com/)
 
